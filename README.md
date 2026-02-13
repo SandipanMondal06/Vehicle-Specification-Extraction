@@ -79,7 +79,7 @@ JSON Output
 
 ### Free LLM (No Paid API)
 - Hugging Face model
-- Model used: `google/flan-t5-base`
+- Model used: `Mistral`
 - Runs online on Google Colab
 - No OpenAI or paid API required
 
